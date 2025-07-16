@@ -3,6 +3,7 @@ import Banner from '../Banner/Banner';
 import Category from '../Category/Category';
 import HandmadeRumalCard from '../HandmadeRumalCard/HandmadeRumalCard';
 import PopularPicks from '../PopularPicks/PopularPicks';
+import CellUs from '../CellUs/CellUs';
 
 const Home = () => {
     return (
@@ -11,6 +12,7 @@ const Home = () => {
             <Category></Category>
             <HandmadeRumalCard></HandmadeRumalCard>
             <PopularPicks></PopularPicks>
+            <CellUs></CellUs>
         </div>
     );
 };
