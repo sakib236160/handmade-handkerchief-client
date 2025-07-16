@@ -1,0 +1,98 @@
+[
+    {
+        "_id": "1",
+        "name": "Elegant Embroidered Rumal",
+        "description": "A finely hand-stitched rumal with intricate embroidery patterns.",
+        "image": "https://i.ibb.co/6Rzwb7mq/emdroide-rumal-1.jpg",
+        "category": "embroidered rumal",
+        "price": 250
+    },
+    {
+        "_id": "2",
+        "name": "Classic Plain Rumal",
+        "description": "A soft, high-quality plain solid color rumal suitable for daily use.",
+        "image": "https://example.com/images/plain_rumal.jpg",
+        "category": "plain solid color",
+        "price": 180
+    },
+    {
+        "_id": "3",
+        "name": "Custom Monogrammed Rumal",
+        "description": "Personalized rumal with your initials embroidered elegantly.",
+        "image": "https://example.com/images/monogrammed_rumal.jpg",
+        "category": "monogrammed",
+        "price": 300
+    },
+    {
+        "_id": "4",
+        "name": "Message Woven Rumal",
+        "description": "Send your message in style with our custom message rumals.",
+        "image": "https://example.com/images/custom_message_rumal.jpg",
+        "category": "custom message rumal",
+        "price": 320
+    },
+    {
+        "_id": "5",
+        "name": "Stylish Border Design Rumal",
+        "description": "High-quality rumal with elegant border design for special occasions.",
+        "image": "https://example.com/images/border_design_rumal.jpg",
+        "category": "border design",
+        "price": 270
+    },
+    {
+        "_id": "6",
+        "name": "Royal Embroidered Rumal",
+        "description": "Traditional royal style embroidery on soft cotton fabric.",
+        "image": "https://i.ibb.co/QFQqKVBt/emdroide-rumal-2.jpg",
+        "category": "embroidered rumal",
+        "price": 280
+    },
+    {
+        "_id": "7",
+        "name": "Minimalist Plain Rumal",
+        "description": "A clean and simple plain colored rumal perfect for minimalists.",
+        "image": "https://example.com/images/plain_rumal2.jpg",
+        "category": "plain solid color",
+        "price": 160
+    },
+    {
+        "_id": "8",
+        "name": "Golden Initial Monogram Rumal",
+        "description": "Add a touch of luxury with golden thread monogramming.",
+        "image": "https://example.com/images/monogrammed_rumal2.jpg",
+        "category": "monogrammed",
+        "price": 350
+    },
+    {
+        "_id": "9",
+        "name": "Personal Note Message Rumal",
+        "description": "Write a heartfelt message that stays forever on fabric.",
+        "image": "https://example.com/images/custom_message_rumal2.jpg",
+        "category": "custom message rumal",
+        "price": 340
+    },
+    {
+        "_id": "10",
+        "name": "Elegant Festive Border Rumal",
+        "description": "Festive borders crafted with colorful patterns for special events.",
+        "image": "https://example.com/images/border_design_rumal2.jpg",
+        "category": "border design",
+        "price": 290
+    },
+    {
+  "_id": "11",
+  "name": "Floral Embroidered Rumal",
+  "description": "Beautifully crafted with vibrant floral embroidery on premium cotton.",
+  "image": "https://i.ibb.co/bgv3cJHn/emdroide-rumal-3.jpg",
+  "category": "embroidered rumal",
+  "price": 295
+},
+  {
+        "_id": "12",
+        "name": "Elegant Embroidered Rumal",
+        "description": "A finely hand-stitched rumal with intricate embroidery patterns.",
+        "image": "https://i.ibb.co/6Rzwb7mq/emdroide-rumal-1.jpg",
+        "category": "embroidered rumal",
+        "price": 250
+    }
+]

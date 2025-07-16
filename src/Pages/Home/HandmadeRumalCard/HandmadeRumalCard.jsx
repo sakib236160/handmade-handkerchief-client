@@ -5,10 +5,10 @@ import SectionTitle from "../../../Components/SectionTitle/SectionTitle";
 const HandmadeRumalCard = () => {
   return (
     <>
-     <SectionTitle
+     {/* <SectionTitle
   heading="Handmade Rumals"
   subHeading="Elegance in every stitch"
-/>
+/> */}
     <div
       className="bg-cover bg-center py-24 px-4 mb-16 mt-15"
       style={{ backgroundImage: `url(${handmadeRumalCard})` }}
